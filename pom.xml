@@ -139,6 +139,6 @@
         <!-- log end -->
     </dependencies>
     <build>
-        <finalName>springmvc</finalName>
+        <finalName>ecstore</finalName>
     </build>
 </project>
